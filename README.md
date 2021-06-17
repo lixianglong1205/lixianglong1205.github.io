@@ -1,6 +1,3 @@
-增加一行代码。VicentLee NB!!!ss 
-这是我的第一个博客。啊哈哈哈哈哈哈哈哈哈！
-
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
