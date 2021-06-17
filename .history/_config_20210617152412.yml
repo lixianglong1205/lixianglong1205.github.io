@@ -1,38 +1,30 @@
 # Site settings
-# title:博客标题
 title: BY VincentLee
-# 显示在浏览器上搜索的时候显示的标题
 SEOTitle: 李翔龙的博客 | BY VincentLee
-# 显示在首页的图片
 header-img: img/post-bg-desk.jpg
-# 你的邮箱地址
 email: lixianglong1205@163.com
-# 网站介绍
-description: "Never Give It Up!Hurry Up!"
-# 关键词
-keyword: "李翔龙, VincetLee, Vincent, Lee, 1205, Python, Pytorch, Tensorflow, Keras, Numpy, Pandas, MySQL, Neo4j, Pycharm, Spyder, Jupyter notebook, Anaconda, pip, conda, C, C++, 数据结构与算法, 计算机科学导论, 深入理解操作系统"
-
+description: "Every failure is leading towards success."
+keyword: "李翔龙"
 url: "http://lixianglong1205.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lixianglong1205/lixianglong1205.github.io" # you code repository
 
 # Sidebar settings
-# 侧边栏设置
-sidebar: true                           # whether or not using Sidebar. 是否开启侧边栏
-sidebar-about-description: "Just Listen To Me,Not you!OK?!"  # 说点装逼的话
-sidebar-avatar: /img/person_of_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`    你的个人头像
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
-# 社交账号:展示你的其他社交平台
 # SNS settings
 RSS: false
-# weibo_username:     ***
-zhihu_username:     李里
-github_username:    lixianglong1205
-# facebook_username:  ***
-# jianshu_username:   ***
-# twitter_username:   ***
+# weibo_username:     qiubaiying
+zhihu_username:     qiubaiying
+github_username:    qiubaiying
+facebook_username:  baiying.qiu.7
+jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
+
 
 
 

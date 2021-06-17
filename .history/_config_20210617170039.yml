@@ -26,7 +26,7 @@ sidebar-avatar: /img/person_of_me.jpg      # use absolute URL, seeing it's used 
 
 # 社交账号:展示你的其他社交平台
 # SNS settings
-RSS: false
+# RSS: false
 # weibo_username:     ***
 zhihu_username:     李里
 github_username:    lixianglong1205
@@ -36,6 +36,7 @@ github_username:    lixianglong1205
 
 
 
+# 评论系统
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
